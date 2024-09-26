@@ -84,8 +84,9 @@ Once the solution is found, it will print the final board and plot the cost func
 
 The queens' positions are updated in real-time, and conflicts between queens on the same diagonal are highlighted in red.
 
-![Chessboard Visualization](output_image.png)  
-_(Visualization of an N-Queens board with PSO solution)_
+![image](https://github.com/user-attachments/assets/82ee7a82-2986-4dfe-91af-a8c2bef7bf20)
+![image](https://github.com/user-attachments/assets/60a09e2c-6cd8-4d1e-8673-c8a3c98e4052)
+
 
 ---
 
@@ -93,4 +94,4 @@ _(Visualization of an N-Queens board with PSO solution)_
 
 This implementation leverages PSO to solve the N-Queen problem effectively, especially for large `N`. It finds a conflict-free solution by minimizing diagonal attacks in a competitive number of iterations.
 
-If you find this repository helpful, please consider giving it a ⭐ to show your support!
+If you find this repository helpful, please consider giving it a ⭐!
