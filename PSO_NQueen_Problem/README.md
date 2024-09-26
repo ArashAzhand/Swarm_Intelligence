@@ -92,6 +92,6 @@ The queens' positions are updated in real-time, and conflicts between queens on 
 
 ## Conclusion
 
-This implementation leverages PSO to solve the N-Queen problem effectively, especially for large `N`. It finds a conflict-free solution by minimizing diagonal attacks in a competitive number of iterations.
+This implementation leverages PSO to solve the N-Queen problem effectively, especially for `N<=8`. It finds a conflict-free solution by minimizing diagonal attacks in a competitive number of iterations.
 
 If you find this repository helpful, please consider giving it a ⭐!
