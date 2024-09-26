@@ -30,3 +30,6 @@ The environment is modeled as a 2D grid, where each cell represents either free 
 ### Results:
 The PSO algorithm successfully finds a valid path from the start to the goal while navigating around obstacles. The best path is visualized, and the convergence curve demonstrates how the algorithm improves the solution over time.
 
+![image](https://github.com/user-attachments/assets/dd321d4a-3d5d-49c0-b496-d9c10d49a708)
+
+
