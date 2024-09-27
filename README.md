@@ -18,4 +18,4 @@ This repository contains various implementations of swarm intelligence algorithm
    ```
 2. Navigate to the project folder and follow the instructions in each project’s README.
 
-If you find any of these projects helpful, please consider giving it a ⭐!
+***If you find any of these projects helpful, please consider giving it a ⭐!****
