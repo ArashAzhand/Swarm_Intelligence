@@ -8,9 +8,9 @@ This repository contains various implementations of swarm intelligence algorithm
    - Description: A PSO-based approach for optimizing the path of mobile robots in a dynamic environment.
    - [Link to Project](./PSO_Mobile_Robot_Path_Planning)
 
-2. **PSO for N-Queen Problem**
+2. [**PSO for N-Queen Problem**](./PSO_NQueen_Problem)
    - Description: Uses PSO to solve the N-Queen problem by optimizing the placement of queens on the chessboard.
-   - [Link to Project](./PSO_NQueen)
+   - [Link to Project](./PSO_NQueen_Problem)
 
 ## How to Run
 
